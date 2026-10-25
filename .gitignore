@@ -1,0 +1,16 @@
+**/node_modules/
+**/dist/
+**/.local/
+**/test-results/
+**/playwright-report/
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.log
+.codex/
+.DS_Store
+Thumbs.db
